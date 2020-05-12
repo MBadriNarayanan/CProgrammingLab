@@ -159,9 +159,9 @@ void main()
 			while(c < num)
 			{
     
-			    print(" %d  ",c);
+			    printf(" %d  ",c);
 			    a = b;
-				b = c;
+			    b = c;
 			    c = a + b;
 			}
 			printf("\n\n");
