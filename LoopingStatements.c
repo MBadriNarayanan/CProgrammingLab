@@ -270,7 +270,7 @@ void main()
 }
 
 
-13) Pascal's Triangle
+13) Pascals Triangle
 
 #include<stdio.h>
 
