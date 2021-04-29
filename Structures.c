@@ -69,7 +69,7 @@ void transaction(Bank a[],int n)
 								{
 									printf("\n Enter Amount To Be Withdrawn : ");
 									scanf("%f",&amount);
-									if(amount > c[i].balance)printf("\n\n You Do Not Have Enough Money In Your Account \n\n");
+									if(amount > a[i].balance)printf("\n\n You Do Not Have Enough Money In Your Account \n\n");
 									else
 									{
 										printf("\n\n Withdrawal Successful \n\n");
