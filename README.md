@@ -1,20 +1,20 @@
 # CProgramming
-C Programming Lab done in Sem II
+C Programming Lab work done during II Semester
 
-## [IO Statements](https://github.com/MBadriNarayanan/CProgramming/tree/master/IOStatements)
+## [IO Statements](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/IOStatements)
 
-## [DecisionMaking](https://github.com/MBadriNarayanan/CProgramming/tree/master/DecisionMaking)
+## [DecisionMaking](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/DecisionMaking)
 
-## [Loop](https://github.com/MBadriNarayanan/CProgramming/tree/master/Loop)
+## [Loop](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/Loop)
 
-## [Arrays, Strings and Matrices](https://github.com/MBadriNarayanan/CProgramming/tree/master/ArraysStringsAndMatrices)
+## [Arrays, Strings and Matrices](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/ArraysStringsAndMatrices)
 
-## [Functions](https://github.com/MBadriNarayanan/CProgramming/tree/master/Functions)
+## [Functions](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/Functions)
 
-## [Recursion](https://github.com/MBadriNarayanan/CProgramming/tree/master/Recursion)
+## [Recursion](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/Recursion)
 
-## [Files](https://github.com/MBadriNarayanan/CProgramming/tree/master/Files)
+## [Files](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/Files)
 
-## [Pointers](https://github.com/MBadriNarayanan/CProgramming/tree/master/Pointers)
+## [Pointers](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/Pointers)
 
-## [Structures](https://github.com/MBadriNarayanan/CProgramming/tree/master/Structures)
+## [Structures](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/Structures)
