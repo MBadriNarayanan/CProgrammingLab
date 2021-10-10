@@ -1,4 +1,5 @@
-# CProgramming
+# CProgrammingLab
+
 C Programming Lab work done during II Semester
 
 ## [IO Statements](https://github.com/MBadriNarayanan/CProgrammingLab/tree/master/IOStatements)
